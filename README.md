@@ -29,6 +29,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,vite,vscode,npm)](https://skillicons.dev)
 
-## Github Stats
+<!-- ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fasdjkherig&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fasdjkherig&theme=dark)](https://git.io/streak-stats) -->
