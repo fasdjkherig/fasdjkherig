@@ -27,7 +27,7 @@
 
 - Other Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,vite,vscode,npm,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vite,vscode,npm,linux,bash)](https://skillicons.dev)
 
 <!-- ## Github Stats
 
